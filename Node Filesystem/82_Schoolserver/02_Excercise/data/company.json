@@ -1,0 +1,13 @@
+{
+  "company": [{
+    "id": 101, "name": "Interdiscount", "contact": "Hans Muster", "phone": "079 123 45 67", "email": "hans.msuter@interdiscount.ch",
+    "url": "www.interdiscount.ch", "profession": "Detailhandelsfachfrau/-mann EFZ"
+  }, {
+    "id": 102, "name": "Coop", "contact": "Anna Beispiel", "phone": "076 123 45 67", "email": "anna.beispiel@coop.ch",
+    "url": "www.coop.ch", "profession": "Logistiker/in EFZ"
+  }, {
+    "id": 103, "name": "Post", "contact": "Max Entwurf", "phone": "077 123 45 67", "email": "max.entwurf@post.ch",
+    "url": "www.post.ch", "profession": "Mediamatiker/in EFZ"
+  }
+  ]
+}
